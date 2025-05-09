@@ -77,9 +77,11 @@
   <a href="https://linkedin.com/in/karupothula-shyam-sunder-840635334" target="_blank">
     <img src="https://github.com/user-attachments/assets/76f6ce92-47d7-48cb-8dc8-e708e6f395c2" width="50" height="50" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:karupothula.shyamgoud@gmail.com">
     <img src="https://github.com/user-attachments/assets/ac15f100-fcca-447f-abcf-a3f5c157cde8" width="50" height="50" alt="Gmail"/>
   </a>
+  
   <a href="https://shyam-sunder-karupothula.github.io/My-Portfolio-Website/" target="_blank">
     <img src="https://github.com/user-attachments/assets/2c7dc4a8-77e9-4b22-9f33-cb38f52c495b" width="50" height="50" alt="Portfolio"/>
   </a>
