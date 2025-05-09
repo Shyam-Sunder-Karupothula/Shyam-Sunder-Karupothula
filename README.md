@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shyam</h1>
-<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel | Statistics</h3>
 
 ---
 
@@ -14,14 +14,14 @@
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b60e262e-538f-4f9e-864b-68556ddc17b8" width="100" height="100" alt="Python"/>
-  <img src="https://github.com/user-attachments/assets/ccf39e13-8e6f-4601-929b-9e3bdfd34ab1" width="100" height="100" alt="Excel"/>
-  <img src="https://github.com/user-attachments/assets/90e5467e-66d7-4e10-b46e-7c98b4941d5d" width="100" height="100" alt="Power BI"/>
-  <img src="https://github.com/user-attachments/assets/9cad1805-2b3c-4910-b70f-40f2e176885f" width="100" height="100" alt="SQL"/>
-  <img src="https://img.icons8.com/color/200/000000/microsoft-excel-2019--v1.png" width="100" height="100" alt="Statistics"/>
-  <img src="https://github.com/user-attachments/assets/95b04759-49e8-4ed7-97b8-b0e2d42a9cd6" width="100" height="100" alt="Pandas"/>
-  <img src="https://github.com/user-attachments/assets/999d1da2-a89c-408d-8b52-d08260245429" width="100" height="100" alt="Numpy"/>
-  <img src="https://github.com/user-attachments/assets/bbd4c243-dcf0-4c7e-b459-d6ed209dc58c" width="100" height="100" alt="Tableau "/>
+  <img src="https://github.com/user-attachments/assets/b60e262e-538f-4f9e-864b-68556ddc17b8" width="50" height="50" alt="Python"/>
+  <img src="https://github.com/user-attachments/assets/ccf39e13-8e6f-4601-929b-9e3bdfd34ab1" width="50" height="50" alt="Excel"/>
+  <img src="https://github.com/user-attachments/assets/90e5467e-66d7-4e10-b46e-7c98b4941d5d" width="50" height="50" alt="Power BI"/>
+  <img src="https://github.com/user-attachments/assets/9cad1805-2b3c-4910-b70f-40f2e176885f" width="50" height="50" alt="SQL"/>
+  <img src="https://img.icons8.com/color/200/000000/microsoft-excel-2019--v1.png" width="50" height="50" alt="Statistics"/>
+  <img src="https://github.com/user-attachments/assets/95b04759-49e8-4ed7-97b8-b0e2d42a9cd6" width="50" height="50" alt="Pandas"/>
+  <img src="https://github.com/user-attachments/assets/999d1da2-a89c-408d-8b52-d08260245429" width="50" height="50" alt="Numpy"/>
+  <img src="https://github.com/user-attachments/assets/bbd4c243-dcf0-4c7e-b459-d6ed209dc58c" width="50" height="50" alt="Tableau "/>
 </p>
 
 ---
@@ -68,7 +68,6 @@
 - ✅ Conversion Rate
 - ✅ Customer Lifetime Value (CLV)
 - ✅ Churn Rate
-- ✅ Forecast Accuracy
 
 ---
 
@@ -76,13 +75,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/karupothula-shyam-sunder-840635334" target="_blank">
-    <img src="https://github.com/user-attachments/assets/76f6ce92-47d7-48cb-8dc8-e708e6f395c2" width="100" height="100" alt="LinkedIn"/>
+    <img src="https://github.com/user-attachments/assets/76f6ce92-47d7-48cb-8dc8-e708e6f395c2" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="mailto:karupothula.shyamgoud@gmail.com">
-    <img src="https://github.com/user-attachments/assets/ac15f100-fcca-447f-abcf-a3f5c157cde8" width="100" height="100" alt="Gmail"/>
+    <img src="https://github.com/user-attachments/assets/ac15f100-fcca-447f-abcf-a3f5c157cde8" width="50" height="50" alt="Gmail"/>
   </a>
   <a href="https://shyam-sunder-karupothula.github.io/My-Portfolio-Website/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2c7dc4a8-77e9-4b22-9f33-cb38f52c495b" width="100" height="100" alt="Portfolio"/>
+    <img src="https://github.com/user-attachments/assets/2c7dc4a8-77e9-4b22-9f33-cb38f52c495b" width="50" height="50" alt="Portfolio"/>
   </a>
 </p>
 
