@@ -14,11 +14,10 @@
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.icons8.com/color/200/000000/python--v1.png" width="200" height="200" alt="Python"/>
+  <img src="https://img.icons8.com/color/200/000000/microsoft-excel-2019--v1.png" width="200" height="200" alt="Excel"/>
+  <img src="https://img.icons8.com/color/200/000000/power-bi.png" width="200" height="200" alt="Power BI"/>
+  <img src="https://img.icons8.com/ios-filled/200/1A1A1A/sql.png" width="200" height="200" alt="SQL"/>
 </p>
 
 ---
@@ -47,6 +46,18 @@
 
 ---
 
+#### 🔎 Exploratory Data Analysis on Netflix Dataset
+
+> A deep dive into Netflix's catalog to uncover content trends, genre popularity, and country-based distribution.
+
+- 🔧 Tools Used: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook
+- 📁 Dataset: Netflix Movies and TV Shows from Kaggle
+- 📊 Focus: Genre frequency, release trends, country-wise content, type distribution
+- 🔗 [View Full Project on GitHub](https://github.com/Shyam-Sunder-Karupothula/Netflix-EDA)
+- 🔗 [View Full EDA in Jupyter Notebook](https://github.com/Shyam-Sunder-Karupothula/Netflix-EDA/blob/main/Netflix_EDA.ipynb)
+
+---
+
 ### 📌 Key Metrics I Work With
 - ✅ Sales Growth %
 - ✅ Profit Margin by Region
@@ -59,10 +70,16 @@
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/karupothula-shyam-sunder-840635334" target="_blank">
+    <img src="https://img.icons8.com/color/200/000000/linkedin.png" width="200" height="200" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:karupothula.shyamgoud@gmail.com">
+    <img src="https://img.icons8.com/color/200/000000/gmail.png" width="200" height="200" alt="Gmail"/>
+  </a>
+  <a href="https://shyam-sunder-karupothula.github.io/My-Portfolio-Website/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/200/000000/domain.png" width="200" height="200" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
