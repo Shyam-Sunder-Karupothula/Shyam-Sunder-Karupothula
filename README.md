@@ -31,8 +31,8 @@
 - 🧩 Tools: Power BI, SQL, Excel
 - 📌 Focus: Resale pricing trends, seller performance, fuel efficiency vs. pricing
 - 🚀 Outcome: Helped simulate pricing strategy & reduced manual effort by 60%
-- 🔗 [View Dashboard (Power BI)]([https://link-to-your-dashboard](https://github.com/Shyam-Sunder-Karupothula/Bike-sales-insights/blob/main/Bike%20Sales%20Analysis%20Dashboard.pdf))
-- 🔗 [Project Repository]([https://github.com/yourusername/bike-sales-analysis](https://github.com/Shyam-Sunder-Karupothula/Bike-sales-insights))
+- 🔗 [View Dashboard (Power BI)](https://github.com/Shyam-Sunder-Karupothula/Bike-sales-insights/blob/main/Bike%20Sales%20Analysis%20Dashboard.pdf)
+- 🔗 [Project Repository](https://github.com/Shyam-Sunder-Karupothula/Bike-sales-insights)
 
 ---
 
@@ -42,8 +42,8 @@
 - 🛠️ Tools: Excel, Power BI
 - 📊 Metrics: Gross sales, average order value, region-wise revenue
 - 📉 Insights: Identified underperforming regions, high-ROI products
-- 🔗 [View Dashboard]([https://link-to-dashboard](https://github.com/Shyam-Sunder-Karupothula/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.png))
-- 🔗 [Repository]([https://github.com/yourusername/ecommerce-dashboard](https://github.com/Shyam-Sunder-Karupothula/Ecommerce-Sales-Dashboard))
+- 🔗 [View Dashboard](https://github.com/Shyam-Sunder-Karupothula/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.png)
+- 🔗 [Repository](https://github.com/Shyam-Sunder-Karupothula/Ecommerce-Sales-Dashboard)
 
 ---
 
