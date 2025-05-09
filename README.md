@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/color/200/000000/python--v1.png" width="100" height="100" alt="Python"/>
   <img src="https://img.icons8.com/color/200/000000/microsoft-excel-2019--v1.png" width="100" height="100" alt="Excel"/>
   <img src="https://img.icons8.com/color/200/000000/power-bi.png" width="100" height="100" alt="Power BI"/>
-  <img src="https://www.pngwing.com/en/free-png-njuyc" width="100" height="100" alt="SQL"/>
+  <img src="https://github.com/user-attachments/assets/a7607e2b-0c76-42eb-a7de-7ef6cc987186" width="100" height="100" alt="SQL"/>
 </p>
 
 ---
